@@ -1,0 +1,10 @@
+{
+  "name": "NodeAPI",
+  "version": "1.0.0",
+  "description": "Sample server side api for testing",
+  "main": "index.js",
+  "repository": "https://github.com/seanr89/AngularDev",
+  "author": "srafferty89@gmail.com",
+  "license": "MIT",
+  "private": false
+}
